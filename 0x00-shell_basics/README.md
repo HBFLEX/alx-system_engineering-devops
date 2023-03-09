@@ -6,4 +6,5 @@
 4. ls -la displays the current directory files in long format and hidden files
 5. ls -lan displays the current directory files numerically in long format and hidden files
 6. mv is used for movin files to other directorues or renaming file or directories.
-7. rm is used to delete a file.
+7. rm is used to remove files.
+8. rm -rf is used to force remove directories.
