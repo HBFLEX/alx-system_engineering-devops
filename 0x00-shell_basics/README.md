@@ -10,3 +10,4 @@
 8. rm -rf is used to force remove directories
 9. cd ../ is used to move to the previous of the current working directory
 10. file is used to check the file type
+11. cp is used to copy files from different directories to other directories
