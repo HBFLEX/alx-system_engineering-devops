@@ -9,3 +9,4 @@
 7. rm is used to remove files
 8. rm -rf is used to force remove directories
 9. cd ../ is used to move to the previous of the current working directory
+10. file is used to check the file type
